@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://test.cursospluspro.com",
+    "contentApiKey": "7a41281ac655f10c0c71d888ec"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://test.cursospluspro.com",
+    "contentApiKey": "7a41281ac655f10c0c71d888ec"
   }
 }
